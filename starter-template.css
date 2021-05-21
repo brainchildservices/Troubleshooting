@@ -99,3 +99,62 @@ Follow me on Twitter @maridlcrmn
     padding: 50px;
     margin: 10px;
 }
+
+.other-feature-item {
+    padding: 50px 40px;
+    background: #f2f3f7;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.other-feature-item-one {
+    padding: 50px 40px;
+    border-radius: 10px;
+    margin: 17px 0 15px;
+    width: auto;
+    height: auto;
+    text-align: justify;
+    background: #ebebeb;
+}
+
+.other-feature-item-two {
+    padding: 50px 40px;
+    border-radius: 10px;
+    margin: 0 0 15px;
+    text-align: justify;
+    background: #ebebeb;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.other-feature-item-three {
+    padding: 50px 40px;
+    border-radius: 10px;
+    margin: 0;
+    width: auto;
+    height: auto;
+    text-align: justify;
+    background: #ebebeb;
+}
+
+.section-title1 p {
+    margin: 0 0 30px !important;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.col-lg-12 {
+    width: 100%;
+}
+
+-webkit-box-sizing: border-box;
+
+}
